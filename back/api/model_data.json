@@ -1,0 +1,11 @@
+{
+    "26b9c5d4-c979-45e1-8cd6-ab3a0d293f8d": {
+        "eth_amount": 0.00001,
+        "model_file": "string",
+        "total_allocated": 100,
+        "clients": {
+            "0x40754bf3654a44fB145242ee6d1A845ef7644d32": 50,
+            "0x32695421c2C30DeDd1c31cFd154765fE9be5Bc81": 50
+        }
+    }
+}

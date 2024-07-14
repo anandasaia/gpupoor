@@ -1,0 +1,12 @@
+{
+  "26b9c5d4-c979-45e1-8cd6-ab3a0d293f8d": {
+    "0x32695421c2C30DeDd1c31cFd154765fE9be5Bc81": {
+      "compute_time": 13.736087560653687,
+      "rounds_participated": 120
+    },
+    "0x40754bf3654a44fB145242ee6d1A845ef7644d32": {
+      "compute_time": 13.72254991531372,
+      "rounds_participated": 120
+    }
+  }
+}
